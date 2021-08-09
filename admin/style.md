@@ -19,7 +19,7 @@ Your code is expected to follow the guidelines below. If you do not follow these
 9. Do not catch unchecked exceptions unless there is a very good reason. Instead, try to use conditionals appropriately to avoid unchecked (e.g., NullPointer) exceptions.
 10. Do not replicate code unless there is a very good reason.
 11. Document all of the methods and classes you create.
-   - Every source code file should contain a header block of documentation providing basic information about the contents and the author.
-   - Each class and interface, and each method in a class, should have a small header block that describes its role.
-   - Use in-line documentation as appropriate to clearly describe complex logic.
-   - Don't wait until a program is finished to insert documentation. As pieces of your program are completed, comment them appropriately.
+    * Every source code file should contain a header block of documentation providing basic information about the contents and the author.
+    * Each class and interface, and each method in a class, should have a small header block that describes its role.
+    * Use in-line documentation as appropriate to clearly describe complex logic.
+    * Don't wait until a program is finished to insert documentation. As pieces of your program are completed, comment them appropriately.
