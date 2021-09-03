@@ -30,4 +30,4 @@ Each student will provide a peer code review to their partner. You are encourage
 
 Your comments must be provided in github. You may grant your partner access to your repository *after you have received your grade*. Your comments will either be provided as Issues or as comments made directly in the code. To earn credit, your comments must be substantial. Comments that I cannot see in github or that are superficial and do not provide substantive feedback will not earn credit.
 
-Once both partners have completed their review, send a message to me on Slack and I will review and grade your exercise.
+Once both partners have completed their review, send mw message on Slack and I will review and grade your exercise.
