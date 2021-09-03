@@ -11,7 +11,6 @@ Your code is expected to follow the guidelines below. If you do not follow these
     * Put one space on either side of a binary operator.
     * Do not put spaces immediately after a left parenthesis or before a right parenthesis.
     * Do not put spaces before a semicolon.
-    * Put one space before a left parenthesis, except before an empty parameter list.
 5. Be consistent with your use of the `this` keyword, especially in constructors.
 6. Use try-with-resources.
 7. Use private data members unless there is a good reason to do otherwise.
