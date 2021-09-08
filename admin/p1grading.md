@@ -3,6 +3,8 @@ Project 1 Interactive Grading Guide
 
 This guide describes the interactive grading process for Project 1.
 
+**Deadline is 9:55am**: The deadline for this project is *9:55am* on September 16th. Even if your interactive grading appointment takes place after this time you will be graded on the solution that is github at the deadline.
+
 ## Sign up for a grading slot with an instructor or TA
 
 Link TBA.
