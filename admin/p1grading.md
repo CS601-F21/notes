@@ -7,7 +7,7 @@ This guide describes the interactive grading process for Project 1.
 
 ## Sign up for a grading slot with an instructor or TA
 
-Link TBA.
+[Signup Sheet](https://docs.google.com/spreadsheets/d/1HEeoM4rsrxLEHzF2zgc6CCiJgfI2Yk_hAxheWdKhdh8/edit?usp=sharing)
 
 All sessions will take place via Zoom: 
 [https://usfca.zoom.us/j/85869945964](https://usfca.zoom.us/j/85869945964).
