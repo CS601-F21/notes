@@ -7,6 +7,7 @@ Exam 1 Review
 - *Read-only* resources may be used (notes, class resources, books, Internet)
 - **No communication** with others during the exam
 - **No copying** any part of a solution from a resource 
+- **No communication** with other students who have not completed the exam
 - 10-15 questions
 
 The exam will be a take home exam administered as a Canvas quiz.
@@ -20,6 +21,8 @@ I will be available to answer questions via my office hour link on Zoom during t
 While you are completing the exam **you may not communicate with any other person about the exam questions**. Communication includes but is not limited to speaking in person, texting, chatting, slacking, tweeting, and posting to online forums. Other persons include but are not limited to your classmates, friends/family, others you know who are developers, and people you interact with online.
 
 You may refer to any other read-only resource; however, **you may not copy text, code, or any other portion of your answers directly from any other resource**. You may use your class notes and any other information available on the class web page. You may use the internet as a read-only resource. You may use any books or other physical resources you have available. If, however, any portion of any answer is directly copied from another resource you will earn an automatic 0 on the exam. 
+
+You **may not share any information about the exam with a student who has not yet completed the exam**. If I discover that students have shared information with other students *both* students will get an automatic 0 on the exam and may get an automatic F in the class. 
 
 The exam will be 10-15 questions in length.
 
