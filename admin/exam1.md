@@ -12,7 +12,7 @@ Exam 1 Review
 
 The exam will be a take home exam administered as a Canvas quiz.
 
-The exam will be available beginning at 4:30pm on Monday, October 11 for a 24-hour period, until Tuesday, October 12 at 4:30pm. The exam will be **timed**. You will have a time limit of **two hours** to complete the exam once you begin. Per the following Canvas guide: "Timed quizzes begin once a student begins the exam and **do not pause** if the student navigates away from the quiz." 
+The exam will be available beginning at 5:00pm on Monday, October 11 for a 24-hour period, until Tuesday, October 12 at 5:00pm. The exam will be **timed**. You will have a time limit of **two hours** to complete the exam once you begin. Per the following Canvas guide: "Timed quizzes begin once a student begins the exam and **do not pause** if the student navigates away from the quiz." 
 
 *Students who have accommodations that grant them additional time will have their time limit extended. If, for example, you are entitled to 2x time on exams then you will have four hours to complete the exam. Exams must be completed before 4:30pm on October 12, and the time limit will not pause once the exam has been started.*
 
@@ -223,12 +223,3 @@ Connection: close
   * System tests
 
 Explain *three* tests you did (or should have) implemented to test the functionality of partial search for Project 1.  
-
-Describe 3 unit tests for the following method:
-
-```
-// isSorted takes as input an array of int and returns true if the list is
-// sorted and false otherwise.
-public boolean isSorted(int[] list);
-```
-  
