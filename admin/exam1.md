@@ -16,7 +16,7 @@ The exam will be available beginning at 5:00pm on Monday, October 11 for a 24-ho
 
 *Students who have accommodations that grant them additional time will have their time limit extended. If, for example, you are entitled to 2x time on exams then you will have four hours to complete the exam. Exams must be completed before 4:30pm on October 12, and the time limit will not pause once the exam has been started.*
 
-I will be available to answer questions via my office hour link on Zoom during the normal class times on Tuesday (9:55-11:40am and 2:40-4:25pm). You may wish to schedule your two-hour exam period to overlap with those times if you would like the option of asking questions. This is not, however, required.
+I will be available to answer questions via the [class Zoom link](https://usfca.zoom.us/j/84640666307) during the normal class times on Tuesday (9:55-11:40am and 2:40-4:25pm). You may wish to schedule your two-hour exam period to overlap with those times if you would like the option of asking questions. This is not, however, required.
 
 While you are completing the exam **you may not communicate with any other person about the exam questions**. Communication includes but is not limited to speaking in person, texting, chatting, slacking, tweeting, and posting to online forums. Other persons include but are not limited to your classmates, friends/family, others you know who are developers, and people you interact with online.
 
