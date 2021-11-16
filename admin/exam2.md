@@ -99,7 +99,6 @@ The TikTok Share Video API (https://developers.tiktok.com/doc/web-video-kit-with
  
 ```
 POST https://open-api.tiktok.com/share/video/upload/
-
 ```
 
 Give one argument for why this API endpoint is **not** RESTful.
