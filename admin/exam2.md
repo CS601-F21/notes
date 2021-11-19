@@ -47,11 +47,13 @@ Topics such as Concurrency and Sockets have been applied in projects since the m
   * Unit tests
   * Integration tests
   * System tests
-  * Implementing tests using JUnit
+  * Implementing tests using JUnit (Be prepared to implement unit tests.)
 
-Example question:
+Example questions:
 
 Explain one system test you would use to test a web-based email application. Make sure to include a description of the functionality being tested *and* how you would implement the test. Full credit will be awarded to answers that are as specific as possible.
+
+Implement one unit test for the method generateSlackTokenURL in the LoginUtilities class provided as part of the JettyLoginServer example: https://github.com/CS601-F21/code-examples/blob/main/JettyLoginServer/src/main/java/utilities/LoginUtilities.java
 
 ### HTTP
   * HTTP Protocol
