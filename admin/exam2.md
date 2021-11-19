@@ -47,6 +47,7 @@ Topics such as Concurrency and Sockets have been applied in projects since the m
   * Unit tests
   * Integration tests
   * System tests
+  * Implementing tests using JUnit
 
 Example question:
 
